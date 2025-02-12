@@ -1,2 +1,2 @@
-# moneytracker
+# Money Tracker
 Money tracker is an application where you can track your income and expense
